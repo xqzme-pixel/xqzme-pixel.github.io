@@ -1,0 +1,29 @@
+body {
+	cursor:pointer;
+	background-color: grey;
+	background-image: url(https://lh3.googleusercontent.com/proxy/k5Jl7Zm1zrjCMr6wzDSiikloZNQ37TEf5KjFbla1YZhriTAUGJ5Be7M8ChaxBtWvWKp7un9xzjEkdu055XvAPXKS9rQkyaRu0sI3kAChuFoFkzf2YOvUaw)
+}
+
+#body {
+	width:80%;
+	height:1000px;
+	margin-left:9%;
+	background-color: #252525;
+	border:5px solid #474a56;
+	border-radius:5px;
+	box-shadow: 0px 0px 10px #6930c3;
+}
+
+#logotype h2{
+	background-color:#262525;
+	letter-spacing:20px;
+	font-size:80px;
+	color:#6930c3;
+	font-style: normal;
+	margin:0px;
+}
+
+#logotype {
+	width:50%;
+	margin-left:25%;
+}
